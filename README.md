@@ -1,5 +1,5 @@
 # **DATA GATHERING**
-As a data anlyst, obtaining hight quality data should be priority. Data can be classified into 2 main types:  
+As a data analyst, obtaining hight quality data should be priority. Data can be classified into 2 main types:  
 - **Primary:** data you have created. e.g conducting a survey.
 - **Secondary:** data acquired from a third party.
 
