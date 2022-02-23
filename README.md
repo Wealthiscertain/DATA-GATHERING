@@ -33,7 +33,7 @@ There are 2 most popular HTTP request types.
 If everything is ok with the request and you get a 200 response, you will be able to extract the data sent with the response.
 
 
-# **JSON (Java Script Object Notation)**
+## **JSON (Java Script Object Notation)**
 - It is a standard format for data exchange
 
 - When Get requests are sent to API's, data is often returned as JSON.
