@@ -15,7 +15,7 @@ Data is usually available online in downloadable files such as: .csv and .xlxs. 
 **In this research, we will be dealing with web-based API's, but the concept of API's exist in other forms.**
 
 
-## **HTTP REQUESTS (Hyper text transfer protocool)** 
+### **HTTP REQUESTS (Hyper text transfer protocool)** 
 It specified how requests and responses are to be formatted and transmitted.
 
 Websites consists of a couple of files: the HTML code for the webpage and other supplimentary resources such as images, videos, styles etc.
@@ -33,7 +33,7 @@ There are 2 most popular HTTP request types.
 If everything is ok with the request and you get a 200 response, you will be able to extract the data sent with the response.
 
 
-## **JSON (Java Script Object Notation)**
+### **JSON (Java Script Object Notation)**
 - It is a standard format for data exchange
 
 - When Get requests are sent to API's, data is often returned as JSON.
