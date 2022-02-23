@@ -38,7 +38,6 @@ If everything is ok with the request and you get a 200 response, you will be abl
 
 - When Get requests are sent to API's, data is often returned as JSON.
 
-- Frequently the payload data of a Post request is also in JSON(Java Script Object Notation)
 
 It builds upon 2 structures
  - Dictionaries: contains key value pairs surrounded by curly brakcets. The key value of each pair is signified after a colon, and the pairs are searated by commas.
