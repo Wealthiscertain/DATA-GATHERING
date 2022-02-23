@@ -48,4 +48,4 @@ It builds upon 2 structures
   - Lists: Collection of items. It is contained in square brackets []. 
 
 
-**In this research, we will be dealing with API's gotten from https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/**
+**In this research, we will be dealing with the University lists API gotten from https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/**
